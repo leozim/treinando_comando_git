@@ -1,1 +1,1 @@
-titulo = Cursos de DevOps da Alura
+titulo = Lista de cursos de DevOps da Alura
